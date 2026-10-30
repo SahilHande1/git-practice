@@ -4,7 +4,7 @@ int main() {
     int a = 5;
     int b = 3;
 
-    std::cout << "Hello from conflict-practice!" << '\n';
+    std::cout << "Hello from main!" << '\n';
     std::cout << "Multiplication: " << a * b << '\n';
 
     return 0;
