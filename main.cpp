@@ -5,7 +5,7 @@ int main() {
     int b = 3;
 
     std::cout << "Hello, Git and GitHub!" << '\n';
-    std::cout << "Multiplication: " << a * b << '\n';
+    std::cout << "Division: " << a / b << '\n';
 
     return 0;
 }
